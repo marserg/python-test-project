@@ -1,1 +1,3 @@
-print('hello, world!' )
+print('hello, world!')
+
+print('new_line')
